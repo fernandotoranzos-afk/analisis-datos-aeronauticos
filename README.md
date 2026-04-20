@@ -35,3 +35,7 @@ Se lograron identificar patrones en los datos que permiten comprender mejor la e
 ---
 
 📌 Proyecto en desarrollo como parte de mi transición hacia Data Analyst.
+
+## 📊 Visualizaciones (Power BI)
+
+![Dashboard](dashboard_general.png)
